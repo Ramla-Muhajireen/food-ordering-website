@@ -263,8 +263,4 @@ The following checks were performed:
 * Verified SQL syntax in `fastfood_db.sql`
 * Confirmed backend database configuration
 
----
 
-# Author
-
-Student Project Submission – SOWA E-Commerce Platform
